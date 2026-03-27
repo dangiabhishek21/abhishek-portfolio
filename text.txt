@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Abhishek Dangi</title>
+</head>
+<body style="background:black; color:white; text-align:center; padding:50px;">
+
+<h1>Abhishek Dangi</h1>
+<p>Pharma Sales Executive</p>
+
+<img src="YOUR_PHOTO.png" width="200" style="border-radius:50%;">
+
+<br><br>
+
+<a href="Abhishek_Dangi_CV_With_Photo.pdf" style="color:cyan; font-size:20px;">
+Download Resume
+</a>
+
+</body>
+</html>
